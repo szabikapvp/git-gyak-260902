@@ -1,3 +1,5 @@
 appl
 orang
 banan
+pinappl
+strawberr
